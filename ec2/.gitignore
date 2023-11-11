@@ -1,0 +1,6 @@
+.idea/
+.terraform
+*/jmeter.log
+*.tfstate
+*.backup
+.terraform.lock.hcl
